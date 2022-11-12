@@ -15,7 +15,7 @@ const Navbar = () => {
 
   return (
     <div className="bg-white border-b shadow-sm sticky top-0 z-50">
-      <header className="flex justify-between items-center px-3 max-w-6xl mx-auto my-3">
+      <header className="flex justify-between items-center px-3 max-w-6xl mx-auto">
         <div>
           <img
             src="/images/realtor-logo.png"
